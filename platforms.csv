@@ -1,34 +1,34 @@
-Name,URL,Location,Twitter,Active,Public or Private,Bounties,Hall of Fame
-Bug Bounty HQ,bugbountyhq.com,USA,https://twitter.com/bugbountyhq,N,,,
-bugbounty.jp,bugbounty.jp,Japan,https://twitter.com/BugBounty_jp,Y,,,
-bugbounty.sa,bugbounty.sa,Saudi Arabia,,,,,
-BugBountyZone,bugbountyzone.com,France,https://twitter.com/bugbountyzone,,,,
-Bugcrowd,bugcrowd.com,USA,https://twitter.com/bugcrowd,Y,,,
-bugsbounty.io,bugsbounty.io,England,https://twitter.com/bugsbounty_com,,,,
-Cesppa,cesppa.com,USA,https://twitter.com/cesppa,Y,,,
-Cobalt,cobalt.io,USA,https://twitter.com/cobalt_io,Y,,,
-Cyber Army Indonesia,cyberarmy.id,Indonesia,https://twitter.com/cyberarmyid,,,,
-Detectify,detectify.com/crowdsource,Sweden,https://twitter.com/detectify,Y,,,
-Dvuln,dvuln.com,Australia,https://twitter.com/d_vuln,Y,,,
-Federacy,federacy.com,USA,https://twitter.com/federacyorg,Y,,,
-Hackenproof,hackenproof.com,Ukraine,https://twitter.com/hacken_io,Y,,,
-HackerOne,hackerone.com,USA,https://twitter.com/hacker0x01,Y,,,
-Hacktrophy,hacktrophy.com,Slovakia,https://twitter.com/hacktrophy,,,,
-Intigriti,intigriti.com,Belgium,https://twitter.com/intigriti,Y,,,
-Open Bug Bounty,openbugbounty.org,Bangladesh,https://twitter.com/openbugbounty,Y,,,
-PlugBounty,plugbounty.com,,https://twitter.com/plugbounty,,,,
-Praetorian,praetorian.com/platform/bug-bounty,USA,https://twitter.com/praetorian_inc,,,,
-Safehats,safehats.com,India,https://twitter.com/SafeHats,,,,
-Secuna,secuna.io,Phillipines,https://twitter.com/SecunaSecurity,,,,
-SlowMist,slowmist.com,China,https://twitter.com/SlowMist_Team,,,,
-Swarmnetics,swarmnetics.com,Singapore,https://twitter.com/swarmnetics,Y,Private,Y,
-Synack,synack.com,USA,https://twitter.com/synack,Y,,,
-Testbirds,testbirds.com,Germany,https://twitter.com/Testbirds,,,,
-Threatbar,threatbar.com,India,https://twitter.com/threatbar,,,,
-v1bounty,v1bounty.com,Germany,https://twitter.com/v1bounty,Y,,,
-Vulbox,vulbox.com,China,,Y,,,
-Vulnerability Lab,vulnerability-lab.com,Germany,https://twitter.com/vuln_lab,,,,
-White Hub,whitehub.net,Vietnam,https://twitter.com/CyStackSecurity,,,,
-YesWeHack,yeswehack.com/en/index.html,France,https://twitter.com/yeswehack,Y,,,
-Yogosha,yogosha.com,France,https://twitter.com/yogoshaofficial,Y,,,
-Zerocopter,zerocopter.com,Netherlands,https://twitter.com/zerocopter,Y,,,
+Name,URL,Location,Build or Break,Twitter,Active,Public or Private,Bounties,Hall of Fame
+Bug Bounty HQ,bugbountyhq.com,USA,Break,https://twitter.com/bugbountyhq,N,N/A,N/A,N/A
+bugbounty.jp,bugbounty.jp,Japan,Break,https://twitter.com/BugBounty_jp,Y,Both,Y,https://bugbounty.jp/users/ranking
+bugbounty.sa,bugbounty.sa,Saudi Arabia,Break,,N,N/A,N/A,N/A
+BugBountyZone,bugbountyzone.com,France,Break,https://twitter.com/bugbountyzone,N,N/A,N/A,N/A
+Bugcrowd,bugcrowd.com,USA,Break,https://twitter.com/bugcrowd,Y,Both,Y,https://bugcrowd.com/leaderboard
+bugsbounty.io,bugsbounty.io,England,Break,https://twitter.com/bugsbounty_com,N,N/A,N/A,N/A
+Cesppa,cesppa.com,USA,Break,https://twitter.com/cesppa,Y,Both,Y,N
+Cobalt,cobalt.io,USA,Break,https://twitter.com/cobalt_io,Y,Private,Y,https://app.cobalt.io/pentesters
+Cyber Army Indonesia,cyberarmy.id,Indonesia,Break,https://twitter.com/cyberarmyid,Y,Both,Y,https://www.cyberarmy.id/leaderboard
+Detectify,detectify.com/crowdsource,Sweden,Break,https://twitter.com/detectify,Y,Private,Y,N
+Dvuln,dvuln.com,Australia,Break,https://twitter.com/d_vuln,Y,Private,Y,N
+Federacy,federacy.com,USA,Break,https://twitter.com/federacyorg,Y,Private,N,N
+Hackenproof,hackenproof.com,Ukraine,Break,https://twitter.com/hacken_io,Y,Both,Y,https://hackenproof.com/leaderboard
+HackerOne,hackerone.com,USA,Break,https://twitter.com/hacker0x01,Y,Private,Y,https://hackerone.com/leaderboard
+Hacktrophy,hacktrophy.com,Slovakia,Break,https://twitter.com/hacktrophy,N,N/A,N/A,N/A
+Intigriti,intigriti.com,Belgium,Break,https://twitter.com/intigriti,Y,Both,Y,intigriti.com/leaderboard
+Open Bug Bounty,openbugbounty.org,Bangladesh,Break,https://twitter.com/openbugbounty,Y,Public,Y,https://www.openbugbounty.org//
+PlugBounty,plugbounty.com,,Break,https://twitter.com/plugbounty,N,N/A,N/A,N/A
+Praetorian,praetorian.com/platform/bug-bounty,USA,Break,https://twitter.com/praetorian_inc,N,N/A,N/A,N/A
+Safehats,safehats.com,India,Break,https://twitter.com/SafeHats,N,N/A,N/A,N/A
+Secuna,secuna.io,Phillipines,Break,https://twitter.com/SecunaSecurity,Y,Private,Y,N
+SlowMist,slowmist.com,China,Break,https://twitter.com/SlowMist_Team,Y,Public,Y,N
+Swarmnetics,swarmnetics.com,Singapore,Break,https://twitter.com/swarmnetics,Y,Private,Y,N
+Synack,synack.com,USA,Break,https://twitter.com/synack,Y,Private,Y,N
+Testbirds,testbirds.com,Germany,Break,https://twitter.com/Testbirds,Y,Private,N,N
+Threatbar,threatbar.com,India,Break,https://twitter.com/threatbar,Y,Both,Y,N
+v1bounty,v1bounty.com,Germany,Break,https://twitter.com/v1bounty,Y,Public,Y,N
+Vulbox,vulbox.com,China,Break,,Y,Both,Y,https://www.vulbox.com/top/season
+Vulnerability Lab,vulnerability-lab.com,Germany,Break,https://twitter.com/vuln_lab,Y,Public,N,Y
+White Hub,whitehub.net,Vietnam,Break,https://twitter.com/CyStackSecurity,Y,Both,Y,https://whitehub.net/leaderboard
+YesWeHack,yeswehack.com/en/index.html,France,Break,https://twitter.com/yeswehack,Y,Both,Y,https://yeswehack.com/ranking
+Yogosha,yogosha.com,France,Break,https://twitter.com/yogoshaofficial,Y,Private,Y,N
+Zerocopter,zerocopter.com,Netherlands,Break,https://twitter.com/zerocopter,Y,Private,Y,N
